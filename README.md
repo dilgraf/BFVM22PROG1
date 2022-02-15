@@ -1,8 +1,14 @@
 # BFVM19PROG1
+
 Programming 1 course for DSLS
 
 see also https://fennaf.gitbook.io/bfvm19prog1/
 
+- `assessment` folder: In this folder you find all the assignments
+- `data` folder: In this folder you find data for the tutorials and assignments
+- `scripts` folder: Demo scripts such as unit testing scripts and creating sql database
+- `study cases` folder: Examples of study cases for analysis of both continous and categorical data
+- `tutorials` folder: Tutorials for specific topics
 
 # Install on your own system
 Run the following code in your terminal (using a prefered virtual environmnent name)
@@ -25,3 +31,5 @@ pip install bokeh
 jupyter notebook
 ```
 after running the notebook select the just created kernel
+
+contact information: f.feenstra@pl.hanze.nl
