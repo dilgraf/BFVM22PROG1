@@ -9,15 +9,15 @@ Run the following code in your terminal (using a prefered virtual environmnent n
 
 ```
 #create virtual environment
-virtualenv -p /usr/bin/python3 {name}
-source {name}/bin/activate
+python3 -m venv {path/name}
+source {path/name}/bin/activate
 #create jupyter notebook kernel for venv
 pip install ipykernel
 python -m ipykernel install --user --name={name}
 #install required packages
 pip install numpy
 pip install pandas
-pip install matplotlib
+pip install bokeh
 ```
 
 #run jupyter notebook
