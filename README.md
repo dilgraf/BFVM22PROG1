@@ -19,7 +19,8 @@ source /commons/conda/conda_load.sh
 ```
 
 # Data 
-The data sources are to be found at assemblix2019:/data/datasets/Programming1
+The data sources are to be found at **assemblix2019:/data/datasets/Programming1**
+
 Make a copy of the data on your own system
 
 # Jupyter notebook
