@@ -18,10 +18,13 @@ Run the following code in your terminal
 source /commons/conda/conda_load.sh
 ```
 
-#run jupyter notebook
-```
-jupyter notebook
-```
+#Data 
+The data sources are to be found at assemblix2019:/data/datasets/Programming1
+Make a copy of the data on your own system
+
+#Jupyter
+you can use the visual studio code editor for your notebooks
+
 make sure that you use the dsls kernel in your jupyter notebook
 
 contact information: f.feenstra@pl.hanze.nl
